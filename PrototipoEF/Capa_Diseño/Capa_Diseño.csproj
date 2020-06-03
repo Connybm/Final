@@ -33,8 +33,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.8.0.16, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.8.0.16\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,91 +49,112 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Consulta\consulta_aula.cs">
+    <Compile Include="Consulta\CBodega.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Consulta\consulta_aula.Designer.cs">
-      <DependentUpon>consulta_aula.cs</DependentUpon>
+    <Compile Include="Consulta\CBodega.Designer.cs">
+      <DependentUpon>CBodega.cs</DependentUpon>
     </Compile>
-    <Compile Include="Consulta\consulta_carrera.cs">
+    <Compile Include="Consulta\CClientes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Consulta\consulta_carrera.Designer.cs">
-      <DependentUpon>consulta_carrera.cs</DependentUpon>
+    <Compile Include="Consulta\CClientes.Designer.cs">
+      <DependentUpon>CClientes.cs</DependentUpon>
     </Compile>
-    <Compile Include="Consulta\consulta_curso.cs">
+    <Compile Include="Consulta\CExistencias.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Consulta\consulta_curso.Designer.cs">
-      <DependentUpon>consulta_curso.cs</DependentUpon>
+    <Compile Include="Consulta\CExistencias.Designer.cs">
+      <DependentUpon>CExistencias.cs</DependentUpon>
     </Compile>
-    <Compile Include="Consulta\consulta_jornada.cs">
+    <Compile Include="Consulta\CLineas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Consulta\consulta_jornada.Designer.cs">
-      <DependentUpon>consulta_jornada.cs</DependentUpon>
+    <Compile Include="Consulta\CLineas.Designer.cs">
+      <DependentUpon>CLineas.cs</DependentUpon>
     </Compile>
-    <Compile Include="Consulta\consulta_seccion.cs">
+    <Compile Include="Consulta\CMarcas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Consulta\consulta_seccion.Designer.cs">
-      <DependentUpon>consulta_seccion.cs</DependentUpon>
+    <Compile Include="Consulta\CMarcas.Designer.cs">
+      <DependentUpon>CMarcas.cs</DependentUpon>
     </Compile>
-    <Compile Include="Consulta\consulta_sede.cs">
+    <Compile Include="Consulta\CProductos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Consulta\consulta_sede.Designer.cs">
-      <DependentUpon>consulta_sede.cs</DependentUpon>
+    <Compile Include="Consulta\CProductos.Designer.cs">
+      <DependentUpon>CProductos.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantalumno.cs">
+    <Compile Include="Consulta\CProveedores.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantalumno.Designer.cs">
-      <DependentUpon>Frm_Mantalumno.cs</DependentUpon>
+    <Compile Include="Consulta\CProveedores.Designer.cs">
+      <DependentUpon>CProveedores.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantaulas.cs">
+    <Compile Include="Consulta\CVendedores.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantaulas.Designer.cs">
-      <DependentUpon>Frm_Mantaulas.cs</DependentUpon>
+    <Compile Include="Consulta\CVendedores.Designer.cs">
+      <DependentUpon>CVendedores.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantcurso.cs">
+    <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantcurso.Designer.cs">
-      <DependentUpon>Frm_Mantcurso.cs</DependentUpon>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantfacultades.cs">
+    <Compile Include="Mantenimientos\MBodega.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantfacultades.Designer.cs">
-      <DependentUpon>Frm_Mantfacultades.cs</DependentUpon>
+    <Compile Include="Mantenimientos\MBodega.Designer.cs">
+      <DependentUpon>MBodega.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantjornadas.cs">
+    <Compile Include="Mantenimientos\MCliente.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantjornadas.Designer.cs">
-      <DependentUpon>Frm_Mantjornadas.cs</DependentUpon>
+    <Compile Include="Mantenimientos\MCliente.Designer.cs">
+      <DependentUpon>MCliente.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantmaestro.cs">
+    <Compile Include="Mantenimientos\MExistencias.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantmaestro.Designer.cs">
-      <DependentUpon>Frm_Mantmaestro.cs</DependentUpon>
+    <Compile Include="Mantenimientos\MExistencias.Designer.cs">
+      <DependentUpon>MExistencias.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantsecciones.cs">
+    <Compile Include="Mantenimientos\MLineas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantsecciones.Designer.cs">
-      <DependentUpon>Frm_Mantsecciones.cs</DependentUpon>
+    <Compile Include="Mantenimientos\MLineas.Designer.cs">
+      <DependentUpon>MLineas.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantsedes.cs">
+    <Compile Include="Mantenimientos\MMarcas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Mantenimientos\Frm_Mantsedes.Designer.cs">
-      <DependentUpon>Frm_Mantsedes.cs</DependentUpon>
+    <Compile Include="Mantenimientos\MMarcas.Designer.cs">
+      <DependentUpon>MMarcas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\MProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\MProductos.Designer.cs">
+      <DependentUpon>MProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\MProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\MProveedores.Designer.cs">
+      <DependentUpon>MProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\MVendedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\MVendedores.Designer.cs">
+      <DependentUpon>MVendedores.cs</DependentUpon>
     </Compile>
     <Compile Include="Menu_Principal.cs">
       <SubType>Form</SubType>
@@ -136,55 +162,85 @@
     <Compile Include="Menu_Principal.Designer.cs">
       <DependentUpon>Menu_Principal.cs</DependentUpon>
     </Compile>
-    <Compile Include="Procesos\Frm_asignacioncursoalumno.cs">
+    <Compile Include="Procesos\PCompra.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Procesos\Frm_asignacioncursoalumno.Designer.cs">
-      <DependentUpon>Frm_asignacioncursoalumno.cs</DependentUpon>
+    <Compile Include="Procesos\PCompra.Designer.cs">
+      <DependentUpon>PCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Procesos\PVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Procesos\PVenta.Designer.cs">
+      <DependentUpon>PVenta.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Consulta\consulta_aula.resx">
-      <DependentUpon>consulta_aula.cs</DependentUpon>
+    <Compile Include="RecuperacionContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecuperacionContraseña.designer.cs">
+      <DependentUpon>RecuperacionContraseña.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Consulta\CBodega.resx">
+      <DependentUpon>CBodega.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Consulta\consulta_curso.resx">
-      <DependentUpon>consulta_curso.cs</DependentUpon>
+    <EmbeddedResource Include="Consulta\CClientes.resx">
+      <DependentUpon>CClientes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Consulta\consulta_jornada.resx">
-      <DependentUpon>consulta_jornada.cs</DependentUpon>
+    <EmbeddedResource Include="Consulta\CExistencias.resx">
+      <DependentUpon>CExistencias.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Consulta\consulta_seccion.resx">
-      <DependentUpon>consulta_seccion.cs</DependentUpon>
+    <EmbeddedResource Include="Consulta\CLineas.resx">
+      <DependentUpon>CLineas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Mantenimientos\Frm_Mantalumno.resx">
-      <DependentUpon>Frm_Mantalumno.cs</DependentUpon>
+    <EmbeddedResource Include="Consulta\CMarcas.resx">
+      <DependentUpon>CMarcas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Mantenimientos\Frm_Mantaulas.resx">
-      <DependentUpon>Frm_Mantaulas.cs</DependentUpon>
+    <EmbeddedResource Include="Consulta\CProductos.resx">
+      <DependentUpon>CProductos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Mantenimientos\Frm_Mantcurso.resx">
-      <DependentUpon>Frm_Mantcurso.cs</DependentUpon>
+    <EmbeddedResource Include="Consulta\CProveedores.resx">
+      <DependentUpon>CProveedores.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Mantenimientos\Frm_Mantfacultades.resx">
-      <DependentUpon>Frm_Mantfacultades.cs</DependentUpon>
+    <EmbeddedResource Include="Consulta\CVendedores.resx">
+      <DependentUpon>CVendedores.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Mantenimientos\Frm_Mantjornadas.resx">
-      <DependentUpon>Frm_Mantjornadas.cs</DependentUpon>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Mantenimientos\Frm_Mantmaestro.resx">
-      <DependentUpon>Frm_Mantmaestro.cs</DependentUpon>
+    <EmbeddedResource Include="Mantenimientos\MBodega.resx">
+      <DependentUpon>MBodega.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Mantenimientos\Frm_Mantsecciones.resx">
-      <DependentUpon>Frm_Mantsecciones.cs</DependentUpon>
+    <EmbeddedResource Include="Mantenimientos\MCliente.resx">
+      <DependentUpon>MCliente.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Mantenimientos\Frm_Mantsedes.resx">
-      <DependentUpon>Frm_Mantsedes.cs</DependentUpon>
+    <EmbeddedResource Include="Mantenimientos\MExistencias.resx">
+      <DependentUpon>MExistencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\MLineas.resx">
+      <DependentUpon>MLineas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\MMarcas.resx">
+      <DependentUpon>MMarcas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\MProductos.resx">
+      <DependentUpon>MProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\MProveedores.resx">
+      <DependentUpon>MProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\MVendedores.resx">
+      <DependentUpon>MVendedores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu_Principal.resx">
       <DependentUpon>Menu_Principal.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Procesos\Frm_asignacioncursoalumno.resx">
-      <DependentUpon>Frm_asignacioncursoalumno.cs</DependentUpon>
+    <EmbeddedResource Include="Procesos\PCompra.resx">
+      <DependentUpon>PCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Procesos\PVenta.resx">
+      <DependentUpon>PVenta.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -195,6 +251,10 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="RecuperacionContraseña.resx">
+      <DependentUpon>RecuperacionContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -209,11 +269,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Capa_Datos\Capa_Datos.csproj">
+      <Project>{1f4fdd7e-e6db-4dbe-9ff4-460d4f6c2b3b}</Project>
+      <Name>Capa_Datos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Capa_Logica\Capa_Logica.csproj">
       <Project>{40876d0d-6286-4b33-8578-918561568695}</Project>
       <Name>Capa_Logica</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -16,14 +16,17 @@ namespace Capa_Logica
             string llave = sn.obtenerfinal(tabla, campo);
             return llave;
         }
+
         public OdbcDataReader bitacora(string sCodigo, string sip, string Smac, string susuario, string sdepartamento, string sfechahora, string saccion, string sformulario)
         {
             return sn.insertarbitacora(sCodigo, sip, Smac, susuario, sdepartamento, sfechahora, saccion, sformulario);
         }
+
         public OdbcDataReader Insertar(string[] datos)
         {
             return sn.Insertar(datos);
         }
+
         public OdbcDataReader Eliminar(string[] datos)
         {
             return sn.Eliminar(datos);
@@ -33,9 +36,16 @@ namespace Capa_Logica
         {
             return sn.Modificar(datos, campos);
         }
+
         public OdbcDataReader consultacurso(string tabla)
         {
             return sn.consultacurso(tabla);
         }
+
+        public bool LoginUser(string user, string pass)
+        {
+            return sn.consultarusuario(user, pass);
+        }
+
     }
 }

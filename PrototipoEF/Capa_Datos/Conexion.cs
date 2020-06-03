@@ -11,7 +11,7 @@ namespace Capa_Datos
     {
         public OdbcConnection conexionbd()
         {
-            OdbcConnection conn = new OdbcConnection("Dsn=dbparcial");// creacion de la conexion via ODBC
+            OdbcConnection conn = new OdbcConnection("Dsn=SIC");// creacion de la conexion via ODBC
 
             try
             {
