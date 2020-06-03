@@ -1,0 +1,12 @@
+C:\Users\prueb\Desktop\Examen_P2\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\prueb\Desktop\Examen_P2\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\prueb\Desktop\Examen_P2\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\prueb\Desktop\Examen_P2\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Examen_P2\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\prueb\Desktop\Examen_P2\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Conny\Desktop\Examen_Final\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Conny\Desktop\Examen_Final\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Conny\Desktop\Examen_Final\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Conny\Desktop\Examen_Final\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Conny\Desktop\Examen_Final\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Conny\Desktop\Examen_Final\Capa_Datos\obj\Debug\Capa_Datos.pdb
