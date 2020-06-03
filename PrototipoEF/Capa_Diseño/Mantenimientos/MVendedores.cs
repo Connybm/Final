@@ -11,6 +11,7 @@ namespace Capa_Diseño.Mantenimientos
         string scampo;
         public MVendedores()
         {
+            InitializeComponent();
             scampo = logic.siguiente("vendedores", "codigo_vendedor");
             Txt_Codigo.Text = scampo;
             bloquearTXT();

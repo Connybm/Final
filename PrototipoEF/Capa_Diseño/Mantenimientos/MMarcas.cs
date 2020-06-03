@@ -12,6 +12,7 @@ namespace Capa_Diseño.Mantenimientos
 
         public MMarcas()
         {
+            InitializeComponent();
             scampo = logic.siguiente("marcas", "codigo_marca");
             Txt_Codigo.Text = scampo;
             bloquearTXT();
