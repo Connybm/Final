@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C8BEB6FD-A52A-4A68-91DD-E7FB304BCCEE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Capa_Diseño</RootNamespace>
+    <AssemblyName>Capa_Diseño</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Consulta\consulta_aula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\consulta_aula.Designer.cs">
+      <DependentUpon>consulta_aula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\consulta_carrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\consulta_carrera.Designer.cs">
+      <DependentUpon>consulta_carrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\consulta_curso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\consulta_curso.Designer.cs">
+      <DependentUpon>consulta_curso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\consulta_jornada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\consulta_jornada.Designer.cs">
+      <DependentUpon>consulta_jornada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\consulta_seccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\consulta_seccion.Designer.cs">
+      <DependentUpon>consulta_seccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\consulta_sede.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\consulta_sede.Designer.cs">
+      <DependentUpon>consulta_sede.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantalumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantalumno.Designer.cs">
+      <DependentUpon>Frm_Mantalumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantaulas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantaulas.Designer.cs">
+      <DependentUpon>Frm_Mantaulas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantcurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantcurso.Designer.cs">
+      <DependentUpon>Frm_Mantcurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantfacultades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantfacultades.Designer.cs">
+      <DependentUpon>Frm_Mantfacultades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantjornadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantjornadas.Designer.cs">
+      <DependentUpon>Frm_Mantjornadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantmaestro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantmaestro.Designer.cs">
+      <DependentUpon>Frm_Mantmaestro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantsecciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantsecciones.Designer.cs">
+      <DependentUpon>Frm_Mantsecciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantsedes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_Mantsedes.Designer.cs">
+      <DependentUpon>Frm_Mantsedes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Principal.Designer.cs">
+      <DependentUpon>Menu_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Procesos\Frm_asignacioncursoalumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Procesos\Frm_asignacioncursoalumno.Designer.cs">
+      <DependentUpon>Frm_asignacioncursoalumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Consulta\consulta_aula.resx">
+      <DependentUpon>consulta_aula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\consulta_curso.resx">
+      <DependentUpon>consulta_curso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\consulta_jornada.resx">
+      <DependentUpon>consulta_jornada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\consulta_seccion.resx">
+      <DependentUpon>consulta_seccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_Mantalumno.resx">
+      <DependentUpon>Frm_Mantalumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_Mantaulas.resx">
+      <DependentUpon>Frm_Mantaulas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_Mantcurso.resx">
+      <DependentUpon>Frm_Mantcurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_Mantfacultades.resx">
+      <DependentUpon>Frm_Mantfacultades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_Mantjornadas.resx">
+      <DependentUpon>Frm_Mantjornadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_Mantmaestro.resx">
+      <DependentUpon>Frm_Mantmaestro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_Mantsecciones.resx">
+      <DependentUpon>Frm_Mantsecciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_Mantsedes.resx">
+      <DependentUpon>Frm_Mantsedes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Principal.resx">
+      <DependentUpon>Menu_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Procesos\Frm_asignacioncursoalumno.resx">
+      <DependentUpon>Frm_asignacioncursoalumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa_Logica\Capa_Logica.csproj">
+      <Project>{40876d0d-6286-4b33-8578-918561568695}</Project>
+      <Name>Capa_Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
