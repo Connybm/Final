@@ -10,3 +10,9 @@ C:\Users\Conny\Desktop\Examen_Final\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemb
 C:\Users\Conny\Desktop\Examen_Final\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
 C:\Users\Conny\Desktop\Examen_Final\Capa_Datos\obj\Debug\Capa_Datos.dll
 C:\Users\Conny\Desktop\Examen_Final\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache

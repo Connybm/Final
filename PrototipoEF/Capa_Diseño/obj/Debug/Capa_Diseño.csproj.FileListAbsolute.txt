@@ -54,3 +54,43 @@ C:\Users\Conny\Desktop\Examen_Final\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.C
 C:\Users\Conny\Desktop\Examen_Final\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CopyComplete
 C:\Users\Conny\Desktop\Examen_Final\Capa_Diseño\obj\Debug\Capa_Diseño.exe
 C:\Users\Conny\Desktop\Examen_Final\Capa_Diseño\obj\Debug\Capa_Diseño.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Consulta.CBodega.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\ERP.Login.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.MBodega.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.MCliente.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Menu_Principal.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Properties.Resources.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\ERP.RecuperacionContraseña.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.GenerateResource.cache
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.csprojAssemblyReference.cache
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\bin\Debug\Capa_Diseño.exe.config
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\bin\Debug\Capa_Diseño.exe
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\bin\Debug\Capa_Diseño.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\bin\Debug\Capa_Datos.dll
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\bin\Debug\Capa_Logica.dll
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\bin\Debug\CircularProgressBar.dll
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\bin\Debug\WinFormAnimation.dll
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\bin\Debug\Capa_Datos.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\bin\Debug\Capa_Logica.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\bin\Debug\CircularProgressBar.xml
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CopyComplete
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.exe
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Consulta.CClientes.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Consulta.CExistencias.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Consulta.CLineas.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Consulta.CMarcas.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Consulta.CProductos.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Consulta.CProveedores.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Consulta.CVendedores.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.MExistencias.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.MLineas.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.MMarcas.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.MProductos.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.MProveedores.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.MVendedores.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Procesos.PCompra.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Diseño\obj\Debug\Capa_Diseño.Procesos.PVenta.resources

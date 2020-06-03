@@ -16,3 +16,12 @@ C:\Users\Conny\Desktop\Examen_Final\Capa_Logica\obj\Debug\Capa_Logica.csproj.Cor
 C:\Users\Conny\Desktop\Examen_Final\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
 C:\Users\Conny\Desktop\Examen_Final\Capa_Logica\obj\Debug\Capa_Logica.dll
 C:\Users\Conny\Desktop\Examen_Final\Capa_Logica\obj\Debug\Capa_Logica.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Logica\bin\Debug\Capa_Datos.dll
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Logica\bin\Debug\Capa_Datos.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\Conny\Documents\Carrera U\Ingenieria\9. Noveno Semestre\2. Ingenieria de Software\3. Tercer Parcial\PrototipoEF\PrototipoEF\Capa_Logica\obj\Debug\Capa_Logica.pdb

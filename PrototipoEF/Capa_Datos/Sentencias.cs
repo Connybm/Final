@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data.Odbc;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Capa_Datos
 {
@@ -142,6 +138,31 @@ namespace Capa_Datos
                 return null;
             }
         }
+
+        public bool consultarusuario(string usr, string pass)
+        {
+
+            try
+            {
+                OdbcCommand command = new OdbcCommand("SELECT usuario.*,CONCAT(guardar, modificar,eliminar,consultar) AS nivel FROM usuario INNER JOIN tipo_usuario  ON usuario.pktipousuario=tipo_usuario.pktipousuario WHERE nombreusuario='" + usr + "' AND passusuario='" + pass + "'; ", cn.conexionbd());
+                OdbcDataReader reader = command.ExecuteReader();
+                reader.Read();
+                if (reader.GetString(2) != null)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+
+            }
+            catch (Exception err)
+            {
+                Console.WriteLine(err.Message);
+                return false;
+            }
+        }        
     }
 }
 
